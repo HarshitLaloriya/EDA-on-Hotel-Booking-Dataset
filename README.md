@@ -44,22 +44,22 @@ EDA is primarily used to see what data can reveal beyond the formal modeling or 
 - Hotel Wise
 - Overall
 
-## **Q7.** In which Month more reservations was made?
+**Q7.** In which Month more reservations was made?
 - Hotel Wise
 - Overall
   
-## **Q8.** How many reservation were made by repeated guests?
+**Q8.** How many reservation were made by repeated guests?
 - Hotel Wise
 - Overall
   
-## **Q9.** what is the preferred stay length by guests in each type of hotel ?
+**Q9.** what is the preferred stay length by guests in each type of hotel ?
 - Overall
 
-## **Q10.** How does the adr/price per night vary over the year?
+**Q10.** How does the adr/price per night vary over the year?
 - Overall
 
-## **Q11.** How the the prices are distributed across the room type?
+**Q11.** How the the prices are distributed across the room type?
 - Overall
 
-## **Q12.** Does a longer waiting period result in booking cancellations?
+**Q12.** Does a longer waiting period result in booking cancellations?
 - Overall

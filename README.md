@@ -18,3 +18,48 @@ EDA is primarily used to see what data can reveal beyond the formal modeling or 
 
 # Steps and their roles to perform EDA
 ![a](https://github.com/HarshitLaloriya/EDA-on-Hotel-Booking-Dataset/assets/153602422/9e770e3e-189b-403d-8316-00e364a1a876)
+
+# Questions
+<b> Q1.</b> What are the Total Number of bookings and Cancellations?
+- In terms of numbers
+- Hotel wise bookings and cancellations
+
+<b> Q2.</b> Which agent gets the most bookings?
+- Hotel Wise
+- Overall
+
+<b> Q3.</b> Which channel distribution is more often use by customers?
+- Hotel Wise
+- Overall
+
+<b> Q4.</b> Which Meal is the most favourite \ Opted meal by a customers?
+- Hotel Wise
+- Overall
+
+<b>Q5.</b> Which country makes the most reservations?
+- Hotel Wise
+- Overall
+
+**Q6.** In which year more reservations are made?
+- Hotel Wise
+- Overall
+
+## **Q7.** In which Month more reservations was made?
+- Hotel Wise
+- Overall
+  
+## **Q8.** How many reservation were made by repeated guests?
+- Hotel Wise
+- Overall
+  
+## **Q9.** what is the preferred stay length by guests in each type of hotel ?
+- Overall
+
+## **Q10.** How does the adr/price per night vary over the year?
+- Overall
+
+## **Q11.** How the the prices are distributed across the room type?
+- Overall
+
+## **Q12.** Does a longer waiting period result in booking cancellations?
+- Overall

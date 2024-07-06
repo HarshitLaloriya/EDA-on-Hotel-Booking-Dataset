@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) 
-Hello, I'm back with another exciting project. I'm hoping that this readme will speak for my work and my enthusiasm for these types of projects.
-![Screenshot 2024-01-06 002123](https://github.com/HarshitLaloriya/EDA-on-Hotel-Booking-Dataset/assets/153602422/d9a39353-df09-4da4-8cc9-6b4c93cf3753)
+Hello, I'm back with another exciting project. I'm hoping that this readme will speak for my work and my enthusiasm for these types of projects.<br>
+![EDA](https://github.com/HarshitLaloriya/EDA-on-Hotel-Booking-Dataset/assets/153602422/f772fea4-3180-4722-836d-c1a0168a208a)
 
 # What is EDA?
 -Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
